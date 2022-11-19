@@ -6,6 +6,7 @@ import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 console.log("aaaa");
+console.log("fly function added");
 root.render(
   <React.StrictMode>
     <App />
