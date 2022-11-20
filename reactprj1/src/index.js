@@ -6,6 +6,7 @@ import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 console.log("aaaa");
+console.log("ai function");
 root.render(
   <React.StrictMode>
     <App />
